@@ -1,0 +1,10 @@
+#ifndef TIMER0_CONFIG_H
+#define TIMER0_CONFIG_H
+
+#define TIMER0_MODE NORMAL_MODE
+
+#define OC0_MODE OC0_TOGGLE
+
+#define TIMER0_PRESCALER 1024
+
+#endif
